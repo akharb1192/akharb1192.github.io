@@ -19,53 +19,41 @@ I am an enthusiastic person and always curious to learn. I strongly believe in c
 														    
 ## Publications
 
-**_Movie Success Prediction using Data Mining_** [PDF](http://faculty.washington.edu/mdecock/papers/rsivaguru2018a.pdf)
+**_Movie Success Prediction using Data Mining_** [PDF](https://www.researchgate.net/publication/340829260_Movie_Success_Prediction_Using_Data_Mining_MCA-v3pht)
 
 Ankit Kharb, Devesh Choudhary ,Prof. SenthilKumar N
 in: Proceedings of SET Conference ,VIT.
 
 
- **_Crime Pattern Analysis using Data Mining_** [PDF](http://faculty.washington.edu/mdecock/papers/cchoudhary2018a.pdf)
+ **_Crime Pattern Analysis using Data Mining_** [PDF]()
 
 Ankit Kharb, Devesh Choudhary ,Prof. SenthilKumar N
 in: Proceedings of SET Conference ,VIT.
 
 
 
-**_Motion Picture Recommendation using Content and Collaborative filtering_** [PDF](https://ieeexplore.ieee.org/document/8691763)
+**_Motion Picture Recommendation using Content and Collaborative filtering_** [PDF]()
 
-Ankit Kharb, Devesh Choudhary ,Prof. SenthilKumar N
-in: Proceedings of SET Conference ,VIT.
+Ankit Kharb, Devesh Choudhary ,Prof. Deepa N
+in: Proceedings of Data Mining Project
 
 ## Projects
-### [Age, Gender and Personality Trait Prediction of Social Media Users](https://github.com/chhayac/Gender-Classification-Using-Images)                                
-- Designed and developed Machine Learning and Deep Learning models to predict age, gender and personality traits of social media users using their status updates, profile pictures and page likes with 87% accuracy. 
-- Technical Proﬁciency Demonstrated: Python, Convolutional Neural Networks, Keras, Tensorﬂow, Scikit-Learn, Transfer Learning, Numpy, Pandas, Jupyter, Matplotlib 
+### [Online Car Sharing](https://github.com/chhayac/Gender-Classification-Using-Images)                                
+- Designed an online platform for the sharing of the car rides on the online platform to save cost, fuel,reducing air pollution and hence helping others and saving their cost too by sharing the expense on the ride.
+- Technical Proﬁciency Demonstrated: HTML,CSS,JavaScript,PHP,MySQL.
 
-### [Machine Learning and Deep Learning Notebooks](https://github.com/chhayac/Machine-Learning-Notebooks)
-These are my Jupyter Notebooks where I experiment with various machine and deep learning problems and frameworks.
-1. Iris Flower Classification using Keras, Tensorflow and Scikit-Learn ([IPython notebook](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/Iris_flower_classification.ipynb))
-2. Recognizing CIFAR-10 images using Convolutional Neural Networks
-	- Part I   - Simple model ([IPython Notebook](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/Recognizing-CIFAR-10-images-Simple-Model.ipynb))
-	- Part II  - Improved model ([IPython Notebook](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/Recognizing-CIFAR-10-images-Improved-Model.ipynb))
-	- Part III - Data Augmentation ([IPython Notebook](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/Recognizing-CIFAR-10-images-Improved-Model-Data-Augmentation.ipynb))
-3. Traffic Sign Recognition using Convolutional Neural Networks ([IPython Notebook](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/Traffic-Sign-Recognition.ipynb))
-4. Movie Recommendation Engine from Scratch ([IPython Notebook](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/Movie_Recommendation_Engine.ipynb))
-5. Linear Regression ([IPython Notebook](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/Linear_Regression.ipynb))
-6. Multivariate Linear Regression ([IPython Notebook](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/Multivariate_Linear_Regression.ipynb))
+### [Online Library Management System](https://github.com/chhayac/Machine-Learning-Notebooks)
+- Designed an School/College Libraray online library management system having the interface for the Head Librarian and other working librarians used to deal with all type of library management task.
+- Technical Proﬁciency Demonstrated: Core Java, Swing API, MySQL.
 
-### Empirical Study of Network Flow Algorithms                                                      
-- Implemented Ford-Fulkerson, Scaling Ford-Fulkerson, and Preﬂow-push algorithms in Java to ﬁnd maximum ﬂow in a network and performed empirical study with Random, Bipartite and Mesh graphs.
-- Technical Proﬁciency Demonstrated: Java, Git, Algorithms and Data-Structures 
 
-### Simulation and Visualization of 5 Sorting Algorithms                                            
-- Developed a simulation experiment to compare and contrast various sorting algorithms by drawing real-time graphs and interpreting their behaviors on various degree of sortedness. 
-- Technical Proﬁciency Demonstrated: Python, Git, Matplotlib
+### [Group Chat Application using NodeJS and Socket.io](https://github.com/akharb1192/nodejschatapp)
+Created a group chat application out of interest of using Socket Programming with a simple and easy to understand interface and deployed the application on the Heroku.
 
-### Serverless Computing Microservices Composition
-- Working on analyzing and evaluating performance and cost metrics for different compositions of microservices on AWS Lambda.
+### [Data Structure and Algorithm problems](https://github.com/akharb1192/HackerRank_solutions)
+This is my repository where I have solved different Hackerrank problems.
 
-### [Data Structure and Algorithm problems](https://github.com/chhayac/algo_and_data_structures)
+### [Data Structure and Algorithm problems](https://github.com/akharb1192/Data_Structures)
 This is my repository where I solve interesting algorithms and data structure problems.
 
 ## Contact Me
