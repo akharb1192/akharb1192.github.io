@@ -19,30 +19,30 @@ I am an enthusiastic person and always curious to learn. I strongly believe in c
 														    
 ## Publications
 
-**_Movie Success Prediction using Data Mining_** [PDF](https://www.researchgate.net/publication/340829260_Movie_Success_Prediction_Using_Data_Mining_MCA-v3pht)
+**_Movie Success Prediction using Data Mining_** [Link](https://www.researchgate.net/publication/340829260_Movie_Success_Prediction_Using_Data_Mining_MCA-v3pht)
 
 Ankit Kharb, Devesh Choudhary ,Prof. SenthilKumar N
 in: Proceedings of SET Conference ,VIT.
 
 
- **_Crime Pattern Analysis using Data Mining_** [PDF]()
+ **_Crime Pattern Analysis using Data Mining_** [Link](https://github.com/akharb1192/crime_pattern_detection)
 
 Ankit Kharb, Devesh Choudhary ,Prof. SenthilKumar N
 in: Proceedings of SET Conference ,VIT.
 
 
 
-**_Motion Picture Recommendation using Content and Collaborative filtering_** [PDF]()
+**_Motion Picture Recommendation using Content and Collaborative filtering_** [Link](https://github.com/akharb1192/movie_recommendation_system)
 
 Ankit Kharb, Devesh Choudhary ,Prof. Deepa N
 in: Proceedings of Data Mining Project
 
 ## Projects
-### [Online Car Sharing](https://github.com/chhayac/Gender-Classification-Using-Images)                                
+### [Online Car Sharing](https://github.com/akharb1192/car_sharing_php)                                
 - Designed an online platform for the sharing of the car rides on the online platform to save cost, fuel,reducing air pollution and hence helping others and saving their cost too by sharing the expense on the ride.
 - Technical Proﬁciency Demonstrated: HTML,CSS,JavaScript,PHP,MySQL.
 
-### [Online Library Management System](https://github.com/chhayac/Machine-Learning-Notebooks)
+### [Online Library Management System](https://github.com/akharb1192/library_managment_swing)
 - Designed an School/College Libraray online library management system having the interface for the Head Librarian and other working librarians used to deal with all type of library management task.
 - Technical Proﬁciency Demonstrated: Core Java, Swing API, MySQL.
 
