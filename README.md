@@ -2,17 +2,16 @@
 
 Hello! I am Ankit!
 
-Currently, I am working as a **_Data Scientist at Infoblox_** where I am solving challenging data problems involving malware detection and classification using Machine Learning and Deep Learning techniques. I am actively working on data exploration, data cleaning, feature engineering, model preparation, evaluation and deploying the model using docker containers. I have multiple accepted publications in the field of cybersecurity using AI/ML. 
+Currently, I am a student at **_Vellore Institute of Technology_** where I am currently pursuing Master of Computer Applications. I am actively working on Hackerrank and LeetCode problems and i am very much interested in coding , especially problem solving through Java and Python. 
 
-I graduated from [University of Washington Tacoma](https://www.tacoma.uw.edu/) with Masters in Computer Science with specialization in Data Science. My fields of interest are Machine Learning, Deep Learning, Natural Language Processing, Distributed Computing and Algorithms. 
+I graduated from [University of Dekhi](https://www.du.ac.in/) with Bachelor in Computer Science. My fields of interest are Machine Learning,Java,Python and Cloud computing. 
 
-I worked on research projects at University of Washington under the supervision of [Prof. Martine De Cock](https://www.tacoma.uw.edu/institute-technology/martine-de-cock-phd) on Detection of Domain Generation Algorithms (DGA) using Deep Learning. My Capstone (thesis) was focused on protecting DGA classifiers against Adversarial examples using Generative Adversarial Networks (GANs). Please download my [resume](https://github.com/chhayac/chhayac.github.io/blob/master/Chhaya_Choudhary_GHCScholar_DS.pdf) here.
+I worked on research projects at Vellore Institute of Technology under the supervision of [Prof.SenthilKumar N]
+on Movie Success Prediction using Data Mining. My Capstone (thesis) was focused on Motion Picture recommendation analysis using Content and Collaborative filtering. Please download my [resume](https://github.com/chhayac/chhayac.github.io/blob/master/Chhaya_Choudhary_GHCScholar_DS.pdf) here.
 
 
 
-I am an enthusiastic person and always curious to learn. I strongly believe in collaboration. I love to attend conferences to learn, grow in my career and have attended conferences/events like **_USENIX’18 as grant recipient, Society of Women Engineers, Women in Data Science, Azure University event, ACT-W conference , GHC 2018 as a scholar, Hopper X 1 Seattle_**.
-
-<p align="center">
+I am an enthusiastic person and always curious to learn. I strongly believe in collaboration. I love to attend conferences to learn, grow in my career and have attended conferences<p align="center">
 <img src="https://raw.githubusercontent.com/chhayac/chhayac.github.io/master/profile_pic.jpeg" width="378px" height="504px">
 </p>
 														    
