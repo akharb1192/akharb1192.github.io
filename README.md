@@ -19,26 +19,23 @@ I am an enthusiastic person and always curious to learn. I strongly believe in c
 														    
 ## Publications
 
-**_An Evaluation of DGA Classifiers_** [PDF](http://faculty.washington.edu/mdecock/papers/rsivaguru2018a.pdf)
+**_Movie Success Prediction using Data Mining_** [PDF](http://faculty.washington.edu/mdecock/papers/rsivaguru2018a.pdf)
 
-R. Sivaguru, C. Choudhary, B. Yu, V. Tymchenko, A. Nascimento, M. De Cock
-in: Proceedings of IEEE BigData2018 (2018 IEEE International Conference on Big Data), p. 5051-5060, 2018
-
-
- **_Algorithmically Generated Domain Detection and Malware Family Classification.
-The Sixth International Symposium on Security in Computing and Communications (SSCC’ 18)_** [PDF](http://faculty.washington.edu/mdecock/papers/cchoudhary2018a.pdf)
-
-C. Choudhary, R. Sivaguru, M. Pereira, B. Yu, A. Nascimento, M. De Cock
-in: Proceedings of the Sixth International Symposium on Security in Computing and Communications (SSCC'18), Communications in Computer and Information Science Series 969, p.640-655, 2019
-
-First place for two out of the four datasets in the Detecting Malicious Domain Names competition [DMD 2018](https://nlp.amrita.edu/DMD2018/) 
+Ankit Kharb, Devesh Choudhary ,Prof. SenthilKumar N
+in: Proceedings of SET Conference ,VIT.
 
 
-**_Weakly Supervised Deep Learning for the Detection of Domain Generation Algorithms_** [PDF](https://ieeexplore.ieee.org/document/8691763)
+ **_Crime Pattern Analysis using Data Mining_** [PDF](http://faculty.washington.edu/mdecock/papers/cchoudhary2018a.pdf)
 
-B. Yu, J. Pan, D. Gray, J. Hu, C. Choudhary, A. Nascimento, M. De Cock
-IEEE Access 7, p. 51542-51556, 2019
+Ankit Kharb, Devesh Choudhary ,Prof. SenthilKumar N
+in: Proceedings of SET Conference ,VIT.
 
+
+
+**_Motion Picture Recommendation using Content and Collaborative filtering_** [PDF](https://ieeexplore.ieee.org/document/8691763)
+
+Ankit Kharb, Devesh Choudhary ,Prof. SenthilKumar N
+in: Proceedings of SET Conference ,VIT.
 
 ## Projects
 ### [Age, Gender and Personality Trait Prediction of Social Media Users](https://github.com/chhayac/Gender-Classification-Using-Images)                                
@@ -72,8 +69,8 @@ These are my Jupyter Notebooks where I experiment with various machine and deep 
 This is my repository where I solve interesting algorithms and data structure problems.
 
 ## Contact Me
-- [LinkedIn](https://www.linkedin.com/in/chhayachoudhary/)
-- Email - er.chhayachoudhary@gmail.com / chhayc@uw.edu
-- [Github](https://github.com/chhayac)
+- [LinkedIn](https://www.linkedin.com/in/ankitrkharb)
+- Email - ankitrkharb@gmail.com / ankit.2019@vitstudent.ac.in
+- [Github](https://github.com/akharb1192)
 
 
