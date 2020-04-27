@@ -4,7 +4,7 @@ Hello! I am Ankit!
 
 Currently, I am a student at **_Vellore Institute of Technology_** where I am currently pursuing Master of Computer Applications. I am actively working on Hackerrank and LeetCode problems and i am very much interested in coding , especially problem solving through Java and Python. 
 
-I graduated from [University of Dekhi](https://www.du.ac.in/) with Bachelor in Computer Science. My fields of interest are Machine Learning,Java,Python and Cloud computing. 
+I graduated from [University of Delhi](https://www.du.ac.in/) with Bachelor in Computer Science. My fields of interest are Machine Learning,Java,Python and Cloud computing. 
 
 I worked on research projects at Vellore Institute of Technology under the supervision of [Prof.SenthilKumar N]
 on Movie Success Prediction using Data Mining. My Capstone (thesis) was focused on Motion Picture recommendation analysis using Content and Collaborative filtering. Please download my [resume](https://github.com/chhayac/chhayac.github.io/blob/master/Chhaya_Choudhary_GHCScholar_DS.pdf) here.
