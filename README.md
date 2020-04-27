@@ -1,6 +1,6 @@
 ## About Me
 
-Hello! I am Chhaya Choudhary!
+Hello! I am Ankit!
 
 Currently, I am working as a **_Data Scientist at Infoblox_** where I am solving challenging data problems involving malware detection and classification using Machine Learning and Deep Learning techniques. I am actively working on data exploration, data cleaning, feature engineering, model preparation, evaluation and deploying the model using docker containers. I have multiple accepted publications in the field of cybersecurity using AI/ML. 
 
