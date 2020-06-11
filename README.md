@@ -11,7 +11,7 @@ on Movie Success Prediction using Data Mining. My Capstone (thesis) was focused 
 
 
 
-I am an enthusiastic person and always curious to learn. I strongly believe in collaboration. I love to attend conferences to learn, grow in my career and have attended conferences
+I am an enthusiastic person and always curious to learn. I strongly believe in collaboration. I love to attend conferences to learn, grow in my career.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/akharb1192/akharb1192.github.io/master/profile.jpg" width="380px" height="504px">
